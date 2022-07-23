@@ -33,10 +33,6 @@ This repo is a collection of Machine Learning, Deep Learning, Natural Language P
 	<p align="center"><img src="_docs/nlp_analysis.gif" width="450" height="250"></p>
 <br>
 
-- <ins>**[Advanced Word Preprocessing](https://github.com/nakhwashazmeen/Data-Science-Projects/blob/main/Deep%20Learning%20%26%20NLP/Advanced%20Word%20Preprocessing.ipynb)**</ins>
-<br>
-	<p align="center"><img src="_docs/nlp_summary.gif" width="450" height="200"></p>
-<br>
 
 ------
 
